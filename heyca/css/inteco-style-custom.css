@@ -181,7 +181,7 @@ body.single-post .inteco-sidebar-style-none, body.blog .inteco-sidebar-style-non
 .inteco-body h5{ font-size: 22px; } 
 .inteco-body h6{ font-size: 18px; } 
 .inteco-body{ font-size: 17px; } 
-.inteco-body, .inteco-body p, .inteco-line-height, .gdlr-core-line-height{ line-height: 1.8; } 
+.inteco-body, .inteco-body p, .inteco-line-height, .gdlr-core-line-height{  } 
 .inteco-navigation .sf-menu > li > a, .inteco-navigation .sf-vertical > li > a{ font-size: 16px; } 
 .inteco-navigation .sf-menu > li > a, .inteco-navigation .sf-vertical > li > a{ font-weight: 600; } 
 .inteco-navigation .sf-menu > li > a, .inteco-navigation .sf-vertical > li > a{ text-transform: none; } 
