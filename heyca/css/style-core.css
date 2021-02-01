@@ -5994,10 +5994,16 @@ html.mm-opening.inteco-mmenu-right .inteco-mobile-header {
 	padding: 15px; 
 	width: 100%;
 	display: block; -webkit-appearance: none; 
-	background-color:#af938f; 
+	background-color:#000000; 
 	border: 0;
 	color: #fff;
 	font-style: normal !important;
 	cursor: pointer;
 	font-style: normal;
 }
+
+.submit-button: a.hover{ 
+	background-color:green; 
+}
+
+ 
