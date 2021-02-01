@@ -39,7 +39,7 @@
 .gdlr-core-social-network-item .gdlr-core-social-network-icon{ margin-left: 15px; font-size: 18px; }
 
 .gdlr-core-title-item .gdlr-core-title-item-link{ font-weight: bold; }
-.gdlr-core-title-item .gdlr-core-title-item-link:after{ content: "\f178"; margin-left: 15px; font-family: fontAwesome; }
+.gdlr-core-title-item .gdlr-core-title-item-link:after{ content: "\f178"; margin-left: 15px; font-family: Century Gothic; }
 .gdlr-core-title-item .gdlr-core-title-item-divider{ display: inline-block; width: 230px; margin-left: 25px;
 	position: static; margin-top: 0px; top: auto; }
 .gdlr-core-title-item-caption-top.gdlr-core-left-align .gdlr-core-title-item-link, 
@@ -47,7 +47,7 @@
 .gdlr-core-title-item-caption-right.gdlr-core-left-align .gdlr-core-title-item-link{ font-style: normal; top: auto; bottom: 5px; }
 
 .gdlr-core-block-item-title-wrap .gdlr-core-block-item-read-more{ position: absolute; right: 0px; bottom: 5px; font-weight: bold; }
-.gdlr-core-block-item-title-wrap .gdlr-core-block-item-read-more:after{ content: "\f178"; margin-left: 15px; font-family: fontAwesome; }
+.gdlr-core-block-item-title-wrap .gdlr-core-block-item-read-more:after{ content: "\f178"; margin-left: 15px; font-family: Century Gothic; }
 .gdlr-core-block-item-title-wrap.gdlr-core-left-align .gdlr-core-separator { border-bottom-width: 1px; border-bottom-style: solid; width: 230px;
 	border-right: 0px; height: 0px; transform: none; -moz-transform: none; -webkit-transform: none; }
 
@@ -167,13 +167,13 @@ body.single-post .inteco-sidebar-style-none, body.blog .inteco-sidebar-style-non
 .inteco-footer-wrapper{ padding-bottom: 55px; } 
 .inteco-copyright-container{ padding-top: 33px; } 
 .inteco-copyright-container{ padding-bottom: 33px; } 
-.inteco-body h1, .inteco-body h2, .inteco-body h3, .inteco-body h4, .inteco-body h5, .inteco-body h6, .inteco-body .inteco-title-font,.inteco-body .gdlr-core-title-font{ font-family: ArcaMajora Heavy; }.gdlr-core-body .gdlr-core-load-more, .gdlr-core-body .gdlr-core-button, .inteco-body .inteco-button, .inteco-body input[type="button"], .inteco-body input[type="submit"], .gdlr-core-title-item .gdlr-core-title-item-link, .gdlr-core-block-item-title-wrap .gdlr-core-block-item-read-more, .gdlr-core-filterer-wrap, .woocommerce-breadcrumb, .woocommerce span.onsale, .gdlr-core-port-info-item, .single-product.woocommerce div.product p.price .woocommerce-Price-amount, .single-product.woocommerce #review_form #respond label{ font-family: ArcaMajora Heavy; } 
-.inteco-navigation .sf-menu > li > a, .inteco-navigation .sf-vertical > li > a, .inteco-navigation-font{ font-family: ArcaMajora Bold; } 
-.inteco-body, .inteco-body .gdlr-core-content-font, .inteco-body input, .inteco-body textarea, .inteco-body button, .inteco-body select, .inteco-body .inteco-content-font, .gdlr-core-audio .mejs-container *{ font-family: "Source Sans Pro", sans-serif; } 
-.inteco-body .gdlr-core-info-font, .inteco-body .inteco-info-font{ font-family: ArcaMajora Bold; } 
-.inteco-body .gdlr-core-blog-info-font, .inteco-body .inteco-blog-info-font{ font-family: "Source Sans Pro", sans-serif; } 
-.inteco-body .gdlr-core-quote-font, blockquote{ font-family: "Source Sans Pro", sans-serif; } 
-.inteco-body .gdlr-core-testimonial-content{ font-family: ArcaMajora Bold; } 
+.inteco-body h1, .inteco-body h2, .inteco-body h3, .inteco-body h4, .inteco-body h5, .inteco-body h6, .inteco-body .inteco-title-font,.inteco-body .gdlr-core-title-font{ font-family: Century Gothic; }.gdlr-core-body .gdlr-core-load-more, .gdlr-core-body .gdlr-core-button, .inteco-body .inteco-button, .inteco-body input[type="button"], .inteco-body input[type="submit"], .gdlr-core-title-item .gdlr-core-title-item-link, .gdlr-core-block-item-title-wrap .gdlr-core-block-item-read-more, .gdlr-core-filterer-wrap, .woocommerce-breadcrumb, .woocommerce span.onsale, .gdlr-core-port-info-item, .single-product.woocommerce div.product p.price .woocommerce-Price-amount, .single-product.woocommerce #review_form #respond label{ font-family: Century Gothic; } 
+.inteco-navigation .sf-menu > li > a, .inteco-navigation .sf-vertical > li > a, .inteco-navigation-font{ font-family: Century Gothic; } 
+.inteco-body, .inteco-body .gdlr-core-content-font, .inteco-body input, .inteco-body textarea, .inteco-body button, .inteco-body select, .inteco-body .inteco-content-font, .gdlr-core-audio .mejs-container *{ font-family: "Century Gothic", sans-serif; } 
+.inteco-body .gdlr-core-info-font, .inteco-body .inteco-info-font{ font-family: Century Gothic; } 
+.inteco-body .gdlr-core-blog-info-font, .inteco-body .inteco-blog-info-font{ font-family: "Century Gothic", Source-Sans-Pro; } 
+.inteco-body .gdlr-core-quote-font, blockquote{ font-family: "Century Gothic", Source-Sans-Pro; } 
+.inteco-body .gdlr-core-testimonial-content{ font-family:Century Gothic ; } 
 .inteco-body h1{ font-size: 52px; } 
 .inteco-body h2, #poststuff .gdlr-core-page-builder-body h2{ font-size: 48px; } 
 .inteco-body h3{ font-size: 36px; } 
@@ -524,7 +524,7 @@ span.woocommerce-Price-amount.amount{ color: #707070; }
 .gdlr-core-body .gdlr-core-gdpr-form-submit input[type="submit"]{ background: #1a49a8; } 
 /*--custom, do not reomve--*/
 .gdlr-core-filterer-wrap.gdlr-core-style-text{
-font-family: "Arcamajora Bold";
+font-family: "Century Gothic";
 }
 .inteco-comments-area .comment-reply-title small {
     font-size: 13px;
@@ -588,7 +588,7 @@ font-family: "Arcamajora Bold";
 .gdlr-core-page-builder-body [data-skin="HP5 Portfolio"] .gdlr-core-button, .gdlr-core-page-builder-body [data-skin="HP5 Portfolio"] .gdlr-core-button-color{ border-color: #5db0b8 }.gdlr-core-page-builder-body [data-skin="HP5 Portfolio"] .gdlr-core-pagination a{ border-color: #5db0b8 }
 .gdlr-core-page-builder-body [data-skin="White form"] .gdlr-core-skin-e-background{ background-color: #ffffff }.gdlr-core-page-builder-body [data-skin="White form"] .gdlr-core-flexslider-nav.gdlr-core-round-style li a, .gdlr-core-page-builder-body [data-skin="White form"] .gdlr-core-flexslider-nav.gdlr-core-rectangle-style li a{ background-color: #ffffff; }.gdlr-core-page-builder-body [data-skin="White form"] .gdlr-core-flexslider .flex-control-nav li a{ border-color: #ffffff; }.gdlr-core-page-builder-body [data-skin="White form"] .gdlr-core-flexslider .flex-control-nav li a.flex-active{ background-color: #ffffff; }.gdlr-core-page-builder-body [data-skin="White form"] input:not([type="button"]):not([type="submit"]):not([type="reset"]), .gdlr-core-page-builder-body [data-skin="White form"] textarea{ background-color: #ffffff; }
 @font-face {
-font-family: "ArcaMajora Bold";
+font-family: "Century Gothic";
 src: url("../upload/ArcaMajora3-Bold.eot");
 src: url("../upload/ArcaMajora3-Boldd41d.eot?#iefix") format("embedded-opentype"), 
 url("../upload/ArcaMajora3-Bold.ttf") format("truetype");
@@ -596,7 +596,7 @@ font-weight: normal;
 font-style: normal;
 }
 @font-face {
-font-family: "ArcaMajora Heavy";
+font-family: "Century Gothic";
 src: url("../upload/ArcaMajora3-Heavy.eot");
 src: url("../upload/ArcaMajora3-Heavyd41d.eot?#iefix") format("embedded-opentype"), 
 url("../upload/ArcaMajora3-Heavy.ttf") format("truetype");
